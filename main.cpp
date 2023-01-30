@@ -19,7 +19,5 @@ while (i != nullptr)
     std::cout << i->GetDescripcion() << std::endl;
   i = i->GetSiguiente();
 }
-
-
     std::cout << "Hi on c++";
 }
